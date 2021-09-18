@@ -38,6 +38,10 @@ You can get one from Taobao for only 4.9 CNY.
 |   RXD0  |          Micro-USB D-          |
 |  GPIO0  |          Micro-USB ID          |
 
+## PCB Schematic
+
+![pcb schematic](res/pcb-schematic.png)
+
 ## Measure VCC (battery) Voltage
 
 Part of the circuit:

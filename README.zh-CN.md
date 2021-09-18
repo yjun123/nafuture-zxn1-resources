@@ -38,6 +38,10 @@
 |   RXD0  |          Micro-USB D-          |
 |  GPIO0  |          Micro-USB ID          |
 
+## PCB 原理图
+
+![pcb schematic](res/pcb-schematic.png)
+
 ## 测量VCC（电池）电压
 
 电路图:
