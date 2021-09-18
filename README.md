@@ -88,6 +88,10 @@ See [./upython](./upython)
 - Upload `battery.py`, `sensor.py`, `main.py` to your ZXN1 using Thonny
 - Restart your ZXN1 to run the code
 
+## Stock Firmware
+
+see `firmware` dirctory
+
 ## Where to Buy
 
 - [Taobao link for the Nafuture ZhiXi-N1](https://m.tb.cn/h.Vzupfv7?sm=34d8ae)

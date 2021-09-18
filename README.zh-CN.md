@@ -88,6 +88,10 @@ VCC电压 = ADC返回值 / 1024 / 10 * 57
 - Upload `battery.py`, `sensor.py`, `main.py` to your ZXN1 using Thonny
 - Restart your ZXN1 to run the code
 
+## 原始固件
+
+在 `firmware/` 目录下
+
 ## 购买链接
 
 - [知悉N1淘宝链接](https://m.tb.cn/h.Vzupfv7?sm=34d8ae)
